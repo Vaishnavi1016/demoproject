@@ -1,2 +1,2 @@
 echo"welcome to demo project"
-echo"hello wrld"
+echo"hello world"
